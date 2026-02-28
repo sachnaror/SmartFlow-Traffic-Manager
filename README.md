@@ -210,16 +210,16 @@ flask --app sftm_server run --debug --port=5000
 
 ## 📩 Contact
 
-  Name               Details
-  ------------------ -------------------------------
-  **👨‍💻 Developer**   Sachin Arora
-  **📧 Email**       sachnaror@gmail.com
-  **📍 Location**    Noida, India
-  **📂 GitHub**      https://github.com/sachinaror
-  **🌐 Website**     https://about.me/sachin-arora
-  **📱 Phone**       +91 9560330483
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                      |
+| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📂 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror) |
+| **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
 
-Happy coding! 🎯🔥
+
 
 ------------------------------------------------------------------------
 
